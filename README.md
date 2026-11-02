@@ -1,4 +1,4 @@
-# ScrollingText – Mobile Application Development (Assignment 4)
+# ScrollingText – Mobile Application Development
 
 An educational Android application designed to manage and display extensive textual information efficiently on mobile devices. This project focuses on mastering structural text formatting, implementing vertical scrolling view mechanics, configuring nested multi-column layouts, and handling simple interface interactive triggers.
 
